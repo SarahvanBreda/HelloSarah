@@ -1,4 +1,4 @@
- <center> <h1> Sarah Leigh van Breda </h1> </center>
+ <center> <h1> Sarah Leigh van Breda </h1> 
 ### GAP Graduate Intern 2020 
 
 <p align="center">
@@ -51,9 +51,12 @@ My name is Sarah and I am currently a GAP intern at Dimension Data located in Jo
 - LATEX code and formatting in R and Overleaf 
 - Microsoft programs (i.e. Word, Excel . . ) 
 
+</center>
+
 ## Contact Me
 
 [**Linkedin: Sarah Leigh van Breda**](https://www.linkedin.com/in/sarah-leigh-van-breda-2298171a1/)
 
 **Email:** sarah.vanbreda@dimensiondata.com
+
 
