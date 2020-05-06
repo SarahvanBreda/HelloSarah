@@ -55,9 +55,9 @@ Major 2: Statistics
 
 ## Contact Me
 
+[**Linkedin:**](https://www.linkedin.com/in/sarah-leigh-van-breda-2298171a1/)
+
 **Email:** sarah.vanbreda@dimensiondata.com
 
 **Cellphone:** 081 016 5771
-
-**Linkedin:** https://www.linkedin.com/in/sarah-leigh-van-breda-2298171a1/
 
