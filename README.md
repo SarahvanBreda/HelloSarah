@@ -29,7 +29,7 @@ My name is Sarah and I am currently a GAP intern at Dimension Data located in Jo
 
 2019 
 
-Honours Thesis: “Exploring and Understanding Success in Higher Education” 
+**Honours Thesis:** “Exploring and Understanding Success in Higher Education” 
  
 
 
@@ -38,9 +38,9 @@ Honours Thesis: “Exploring and Understanding Success in Higher Education”
 
 2016-2018 
 
-Major 1: Investment Management 
+**Major 1:** Investment Management 
 
-Major 2: Statistics 
+**Major 2:** Statistics 
 
 
 ## Interests and other skills
