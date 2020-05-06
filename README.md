@@ -16,7 +16,7 @@
 
 ## Tertairy Education
 
-**University of Cape Town Bachelor of Commerce (Statistics Honours)**  
+### University of Cape Town Bachelor of Commerce (Statistics Honours) 
 
 2019 
 
@@ -25,7 +25,7 @@ Honours Thesis: “Exploring and Understanding Success in Higher Education”
 
 
 
-**University of Stellenbosch Bachelor of Commerce Undergrad**
+### University of Stellenbosch Bachelor of Commerce Undergrad
 
 2016-2018 
 
