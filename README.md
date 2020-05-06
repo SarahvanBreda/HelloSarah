@@ -55,7 +55,7 @@ My name is Sarah and I am currently a GAP intern at Dimension Data located in Jo
 
 ## Contact Me
 
-**Linkedin:**[**Sarah Leigh van Breda**](https://www.linkedin.com/in/sarah-leigh-van-breda-2298171a1/)
+**Linkedin:** [**Sarah Leigh van Breda**](https://www.linkedin.com/in/sarah-leigh-van-breda-2298171a1/)
 
 **Email:** sarah.vanbreda@dimensiondata.com
 
