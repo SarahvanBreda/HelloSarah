@@ -1,4 +1,5 @@
 # Sarah van Breda
+### GAP Intern 2020
 
 ![SarahvanBreda1.png](https://github.com/SarahvanBreda/HelloSarah/blob/master/SarahvanBreda1.png)
 
@@ -17,7 +18,7 @@
 
 ## About Me
 
-My name is Sarah and I am currently a GAP intern at Dimension Data.  I am straight out of university with a passion to learn about the business world.  I would descirbe myself as ambitious, analytical and driven.  My adventurous nature has helped me grow as an individual, by becoming extremely independent and inquisitive about life.  Passions of mine include the outdoors, socialising and meeting new people. Attending different universities and skills heightened my enthusiasm and courage to take on any opportunity or challenge. 
+My name is Sarah and I am currently a GAP intern at Dimension Data located in Johannesburg, South Africa.  I am straight out of university with a passion to learn about the business world.  I would describe myself as ambitious, analytical and driven.  My adventurous nature has helped me grow as an individual, by becoming extremely independent and inquisitive about life.  Passions of mine include the outdoors, travel, socialising and meeting new people. Attending different universities and skills heightened my enthusiasm and courage to take on any opportunity or challenge. 
 
 ## Tertairy Education
 
@@ -48,4 +49,10 @@ Major 2: Statistics
 - R (Statistical computing programming language) 
 - LATEX code and formatting in R and Overleaf 
 - Microsoft programs (i.e. Word, Excel . . ) 
+
+## Contact Me
+
+**Email:** sarah.vanbreda@dimensiondata.com
+**Cellphone:** 081 016 5771
+**Linkedin:** https://www.linkedin.com/in/sarah-leigh-van-breda-2298171a1/
 
