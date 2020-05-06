@@ -1,6 +1,6 @@
 # Sarah van Breda
 
-![SarahvanBreda](src)
+![SarahvanBreda.png](src)
 
 ## Personal Information
 
