@@ -1,17 +1,17 @@
 # Sarah van Breda
 
 
-##Personal Information
+## Personal Information
 
-ID: 9707240153081 
+**ID:** 9707240153081 
 
-Date of birth: 24 July 1997 
+**Date of birth:** 24 July 1997 
 
-Home language: English 
+**Home language:** English 
 
-Marital Status: Single 
+**Marital Status:** Single 
 
-Nationality: South African 
+**Nationality:** South African 
 
 
 
