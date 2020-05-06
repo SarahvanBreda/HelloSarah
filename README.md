@@ -14,6 +14,22 @@
 **Nationality:** South African 
 
 
+## Tertairy Education
+
+**University of Cape Town Bachelor of Commerce (Statistics Honours)**  
+
+2019 
+
+Honours Thesis: “Exploring and Understanding Success in Higher Education” 
+ 
+
+**University of Stellenbosch Bachelor of Commerce Undergrad**
+
+2016-2018 
+
+Major 1: Investment Management 
+
+Major 2: Statistics 
 
 
 
