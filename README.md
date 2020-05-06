@@ -1,9 +1,6 @@
  <center> <h1> Sarah Leigh van Breda </h1> </center>
  <center> <h2> GAP Graduate Intern 2020 </h2> </center>
 
-
-  <img src="https://user-images.githubusercontent.com/64779765/81168276-fbc3c900-8f96-11ea-87ff-364ba71e3698.png">
-
 ![SarahvanBreda1](https://user-images.githubusercontent.com/64779765/81168276-fbc3c900-8f96-11ea-87ff-364ba71e3698.png)
 
 ## About Me
