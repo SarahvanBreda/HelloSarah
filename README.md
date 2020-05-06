@@ -1,4 +1,4 @@
-<center> Sarah Leigh van Breda </center>
+<h1> <center> Sarah Leigh van Breda </center> </h1>
 ### GAP Graduate Intern 2020 
 
 <p align="center">
