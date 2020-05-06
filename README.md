@@ -23,6 +23,8 @@
 Honours Thesis: “Exploring and Understanding Success in Higher Education” 
  
 
+
+
 **University of Stellenbosch Bachelor of Commerce Undergrad**
 
 2016-2018 
