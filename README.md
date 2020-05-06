@@ -1,4 +1,4 @@
-# Sarah van Breda
+# Sarah Leigh van Breda
 ### GAP Graduate Intern 2020 
 
 <p align="center">
@@ -55,7 +55,7 @@ Major 2: Statistics
 
 ## Contact Me
 
-[**Linkedin:**](https://www.linkedin.com/in/sarah-leigh-van-breda-2298171a1/)
+[**Linkedin: Sarah Leigh van Breda**](https://www.linkedin.com/in/sarah-leigh-van-breda-2298171a1/)
 
 **Email:** sarah.vanbreda@dimensiondata.com
 
