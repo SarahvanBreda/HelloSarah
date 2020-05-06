@@ -59,5 +59,3 @@ My name is Sarah and I am currently a GAP intern at Dimension Data located in Jo
 
 **Email:** sarah.vanbreda@dimensiondata.com
 
-**Cellphone:** 081 016 5771
-
