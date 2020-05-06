@@ -1,4 +1,15 @@
-## Sarah van Breda
+# Sarah van Breda
+
+##Personal Information
+ID: 9707240153081 
+Date of birth: 24 July 1997 
+Home language: English 
+Marital Status: Single 
+Nationality: South African 
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/SarahvanBreda/HelloSarah/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
