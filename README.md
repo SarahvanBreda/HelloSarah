@@ -2,7 +2,7 @@
  <center> <h2> GAP Graduate Intern 2020 </h2> </center>
 
 <p align="center">
-  <img src="https://github.com/SarahvanBreda/HelloSarah/blob/master/SarahvanBreda1.png">
+  <img src="https://user-images.githubusercontent.com/64779765/81168276-fbc3c900-8f96-11ea-87ff-364ba71e3698.png">
 </p>
 
 <p align="center">
