@@ -1,6 +1,6 @@
 # Sarah van Breda
 
-![SarahvanBreda.png](https://github.com/SarahvanBreda/HelloSarah/blob/master/SarahvanBreda.png)
+![image](https://github.com/SarahvanBreda/HelloSarah/blob/master/SarahvanBreda.png)
 
 ## Personal Information
 
