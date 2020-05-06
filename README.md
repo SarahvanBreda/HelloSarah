@@ -1,5 +1,5 @@
  <center> <h1> Sarah Leigh van Breda </h1> </center>
- <center> <h2> GAP Graduate Intern 2020 </h2> </center>
+
 
 <p align="center">
   <img src="https://github.com/SarahvanBreda/HelloSarah/blob/master/SarahvanBreda1.png">
