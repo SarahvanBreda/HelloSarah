@@ -13,13 +13,9 @@ My name is Sarah and I am currently a GAP intern at Dimension Data located in Jo
 
 ## Personal Information
 
-**ID:** 9707240153081 
-
-**Date of birth:** 24 July 1997 
+**Age:** 22 
 
 **Home language:** English 
-
-**Marital Status:** Single 
 
 **Nationality:** South African 
 
