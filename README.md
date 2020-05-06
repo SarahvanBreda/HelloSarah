@@ -1,7 +1,9 @@
 # Sarah van Breda
 ### GAP Graduate Intern 2020 
 
+``` markdown
 ![SarahvanBreda1.png](https://github.com/SarahvanBreda/HelloSarah/blob/master/SarahvanBreda1.png)
+```
 
 ## Personal Information
 
