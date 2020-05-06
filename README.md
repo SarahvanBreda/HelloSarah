@@ -1,5 +1,6 @@
 # Sarah van Breda
 
+![Image](src)
 
 ## Personal Information
 
@@ -32,6 +33,17 @@ Honours Thesis: “Exploring and Understanding Success in Higher Education”
 Major 1: Investment Management 
 
 Major 2: Statistics 
+
+
+## Interests and other skills
+
+- Finance 
+- Golf 
+- Travel 
+- Gym and yoga 
+- R (Statistical computing programming language) 
+- LATEX code and formatting in R and Overleaf 
+- Microsoft programs (i.e. Word, Excel . . ) 
 
 
 
