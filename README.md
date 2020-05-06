@@ -5,9 +5,9 @@
   <img src="https://github.com/SarahvanBreda/HelloSarah/blob/master/SarahvanBreda1.png">
 </p>
 
-
+<p align="center">
 ![SarahvanBreda1](https://user-images.githubusercontent.com/64779765/81168276-fbc3c900-8f96-11ea-87ff-364ba71e3698.png)
-
+</p>
 
 ## About Me
 
