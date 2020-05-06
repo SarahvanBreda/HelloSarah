@@ -6,8 +6,6 @@
 </p>
 
 
-![SarahvanBreda1.png](https://github.com/SarahvanBreda/HelloSarah/blob/master/SarahvanBreda1.png)
-
 ## Personal Information
 
 **ID:** 9707240153081 
