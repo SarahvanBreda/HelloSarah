@@ -6,6 +6,11 @@
 </p>
 
 
+## About Me
+
+My name is Sarah and I am currently a GAP intern at Dimension Data located in Johannesburg, South Africa.  I am straight out of university with a passion to learn about the business world.  I would describe myself as ambitious, analytical and driven.  My adventurous nature has helped me grow as an individual, by becoming extremely independent and inquisitive about life.  Passions of mine include the outdoors, travel, socialising and meeting new people. Attending different universities and skills heightened my enthusiasm and courage to take on any opportunity or challenge. 
+
+
 ## Personal Information
 
 **ID:** 9707240153081 
@@ -19,9 +24,6 @@
 **Nationality:** South African 
 
 
-## About Me
-
-My name is Sarah and I am currently a GAP intern at Dimension Data located in Johannesburg, South Africa.  I am straight out of university with a passion to learn about the business world.  I would describe myself as ambitious, analytical and driven.  My adventurous nature has helped me grow as an individual, by becoming extremely independent and inquisitive about life.  Passions of mine include the outdoors, travel, socialising and meeting new people. Attending different universities and skills heightened my enthusiasm and courage to take on any opportunity or challenge. 
 
 ## Tertairy Education
 
